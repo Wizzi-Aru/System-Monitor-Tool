@@ -1,5 +1,5 @@
 # System Monitor Tool (C++)
-![Description](image/image.png)
+![Description](images/img1.png)
 
 
 ## 🧠 Overview
