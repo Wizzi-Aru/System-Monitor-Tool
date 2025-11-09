@@ -1,4 +1,5 @@
 # System Monitor Tool (C++)
+!(images/img1.png)
 
 ## 🧠 Overview
 A real-time system monitoring tool built in C++ for Linux. Displays CPU usage, memory stats, and running process details, similar to the `top` command.
